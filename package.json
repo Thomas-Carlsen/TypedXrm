@@ -1,0 +1,24 @@
+{
+  "name": "typed-xrm",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "typed-xrm is a project that will try to make typings for the Xrm object, the Execution Context, Form Context everything within for Dynamics 365/Xrm/CRM/Model-driven apps.",
+  "main": "./lib/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Typescript",
+    "Dynamics 365",
+    "Xrm",
+    "CRM",
+    "Model-driven apps",
+    "Power Platform"
+  ],
+  "author": "Thomas Carlsen",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.5.2"
+  }
+}
